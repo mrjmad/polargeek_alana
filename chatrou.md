@@ -50,7 +50,7 @@ La première chose que je me souviens à propos de leur bureau, c’est de m’�
 
 Et comme je m’y attendais, c’était une jeune startup qui démarrait. Le patron, qui n’y connaissait visiblement pas grand chose à l’informatique et qui en plus avait le culot d’avoir presque dix ans de moins que moi me raconta avec force détail et un plaisir visible mais non partagé “leur aventure merveilleuse”.
 
-Tout avait à priori commencé 5 mois plus tôt, en décembre lors d’un startup week-end. Il y était allé avec un de ses amis pour faire mûrir son projet de site web social révolutionnaire LifeGame. Il y avait rencontré ce qui allait devenir le noyau dur de l’entreprise. Après avoir brillamment été élu meilleur projet du week-end, “le meilleur projet que le jury est jamais vu” si je cite ses mots, ils avaient lancé leur société à coup de love-money et s’apprêtaient à mettre en ligne une alpha de leur site pour pouvoir démarrer une levée de fond.
+Tout avait à priori commencé 5 mois plus tôt, en décembre lors d’un startup week-end. Il y était allé avec un de ses amis pour faire mûrir son projet de site web social révolutionnaire LifeGame. Il y avait rencontré ce qui allait devenir le noyau dur de l’entreprise. Après avoir brillamment été élu meilleur projet du week-end, “le meilleur projet que le jury ait jamais vu” si je cite ses mots, ils avaient lancé leur société à coup de love-money et s’apprêtaient à mettre en ligne une alpha de leur site pour pouvoir démarrer une levée de fond.
 
 Tandis qu’il me servait son conte de fée, je voyait ses yeux briller en imaginant la piscine de dollar qu’il allait lever.
 
